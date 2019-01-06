@@ -14,7 +14,7 @@ var config={
   //案例资源服务器地址
   resUri:"http://localhost:8080",
   //客户端相关标识，请从认证服务器申请
-  clientId: "97c81931476b84be6746",
+  clientId: "cab5a4ead53774f2e6bc",
   client_secret:"7b38a22c72c35ee37d231c0c89d5c5630a099d84",
   //申请的权限范围
   scope:"user",
