@@ -15,9 +15,9 @@ var config={
   resUri:"http://localhost:8080",
   //客户端相关标识，请从认证服务器申请
   clientId: "cab5a4ead53774f2e6bc",
-  client_secret:"7b38a22c72c35ee37d231c0c89d5c5630a099d84",
+  client_secret:"77135577e715c6c0f0b85401e5e48853aec501c0",
   //申请的权限范围
-  scope:"user",
+  scope:"read_user",
   //可选参数，客户端的当前状态，可以指定任意值，用于校验，此次案例不做相关认证
   state:"",
   //一些固定的请求参数
